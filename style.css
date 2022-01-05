@@ -41,3 +41,29 @@ section img {
   background-color: #fff4d6;
   border-radius: 8px;
 }
+.third-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+}
+.coding-img {
+  margin-right: 50px;
+}
+.fourth-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+}
+.project-img {
+  margin-left: 50px;
+}
+footer {
+  background-color: black;
+  height: 200px;
+}
+.white {
+  color: white;
+}
+footer h1 {
+  text-align: center;
+}
