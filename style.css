@@ -27,19 +27,22 @@ section img {
 .first-div {
   border: 1px solid gray;
   background-color: #edf5f6;
-  margin-right: 6px;
+  margin-right: 10px;
   border-radius: 8px;
+  padding: 8px;
 }
 .second-div {
   border: 1px solid gray;
   background-color: #ffeeee;
-  margin-right: 6px;
+  margin-right: 10px;
   border-radius: 8px;
+  padding: 20px;
 }
 .third-div {
   border: 1px solid gray;
   background-color: #fff4d6;
   border-radius: 8px;
+  padding: 8px;
 }
 .third-section {
   display: flex;
