@@ -1,3 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .orange-color {
   color: orange;
+}
+.first-section {
+  display: flex;
+  padding: 20px;
+}
+section img {
+  width: 200px;
+  height: 200px;
+}
+.mission {
+  text-align: center;
+}
+.span-two {
+  color: orange;
+}
+.second-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+}
+.first-div {
+  border: 1px solid gray;
+  background-color: #edf5f6;
+  margin-right: 6px;
+  border-radius: 8px;
+}
+.second-div {
+  border: 1px solid gray;
+  background-color: #ffeeee;
+  margin-right: 6px;
+  border-radius: 8px;
+}
+.third-div {
+  border: 1px solid gray;
+  background-color: #fff4d6;
+  border-radius: 8px;
 }
