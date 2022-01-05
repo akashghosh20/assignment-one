@@ -70,3 +70,9 @@ footer h1 {
 footer h6 {
   text-align: center;
 }
+button {
+  background-color: orangered;
+}
+button:hover {
+  background-color: orchid;
+}
