@@ -79,3 +79,7 @@ button {
 button:hover {
   background-color: orchid;
 }
+.index-div {
+  width: 60%;
+  margin-right: 30px;
+}
