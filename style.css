@@ -25,24 +25,24 @@ section img {
   margin: 0 auto;
 }
 .first-div {
-  border: 1px solid gray;
   background-color: #edf5f6;
   margin-right: 10px;
   border-radius: 8px;
   padding: 8px;
+  box-shadow: 6px 6px 16px gray;
 }
 .second-div {
-  border: 1px solid gray;
   background-color: #ffeeee;
   margin-right: 10px;
   border-radius: 8px;
   padding: 20px;
+  box-shadow: 6px 6px 16px gray;
 }
 .third-div {
-  border: 1px solid gray;
   background-color: #fff4d6;
   border-radius: 8px;
   padding: 8px;
+  box-shadow: 6px 6px 16px gray;
 }
 .third-section {
   display: flex;
@@ -96,6 +96,7 @@ div img {
   padding: 2px;
   border-radius: 10px;
   border: 1px solid rebeccapurple;
+  box-shadow: 5px 5px 10px gray;
 }
 .own h1 {
   text-align: center;
