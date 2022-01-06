@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.orange-color {
+  color: orange;
+}
+.first-section {
+    width: 88%;
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+}
+section img {
+  width: 200px;
+  height: 200px;
+}
+.mission {
+  text-align: center;
+}
+.span-two {
+  color: orange;
+}
+.second-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+}
+.sectionImage {
+  background-color: #edf5f6;
+    margin: 20px;
+    width: 34%;
+    border-radius: 25px;
+    padding: 31px;
+    box-shadow: 6px 6px 16px grey;
+    text-align: center;
+}
+
+.third-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position: left;
+}
+.coding-img {
+  margin-right: 50px;
+}
+.fourth-section {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-position: right;
+}
+.project-img {
+  margin-left: 50px;
+}
+footer {
+  background-color: black;
+  height: 230px;
+}
+.white {
+  color: white;
+}
+footer h1 {
+     text-align: center;
+    padding: 40px;
+}
+footer h6 {
+  text-align: center;
+ padding: 0px;
+}
+
+
+
+.index-div {
+  width: 60%;
+  margin-right: 60px;
+}
+/* div h1 {
+  font-size: 20px;
+
+} */
+
+.own{
+  width: 100%;
+    margin: 0 auto;
+    margin-bottom: 62px;
+}
+
+.screnshort{
+  width: auto;
+  text-align: center;
+
+}
+.screnshort img{
+  width: 305px;
+  padding: 6px;
+  margin-right: 11px;
+  border-radius: 5px;
+  box-shadow: 5px 2px 7px grey;
+
+}
+.red_brdr_line{
+  width: 5px;
+
+}
+.border_area {
+  border-left: 3px solid red;
+  border-radius: 2px;
+}
+.border_area h1{
+  font-size: 41px;
+  line-height: 17px;
+  margin-left: 29px;
+
+}
+.linkbtn{
+  background: #038ef1;
+  color: white;
+  padding: 6px 28px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.linkbtn:hover{
+  background: #ff3a09;
+  color: white;
+  padding: 6px 28px;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
