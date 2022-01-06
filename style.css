@@ -81,5 +81,20 @@ button:hover {
 }
 .index-div {
   width: 60%;
-  margin-right: 30px;
+  margin-right: 60px;
+}
+div h1 {
+  font-size: 20px;
+}
+div img {
+  width: 150px;
+  height: 150px;
+}
+.own img {
+  width: 250px;
+  height: 250px;
+  padding: 2px;
+}
+.own h1 {
+  text-align: center;
 }
