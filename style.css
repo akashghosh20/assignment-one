@@ -94,7 +94,7 @@ div img {
 .own img {
   width: 230px;
   height: 230px;
-  padding: 2px;
+  padding-left: 5px;
   border-radius: 10px;
   border: 1px solid rebeccapurple;
   box-shadow: 5px 5px 10px gray;
