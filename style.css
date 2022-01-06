@@ -48,6 +48,9 @@ section img {
   display: flex;
   padding: 20px;
   margin: 0 auto;
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 100px;
 }
 .coding-img {
   margin-right: 50px;
