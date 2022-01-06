@@ -108,3 +108,7 @@ div img {
 .margin2 {
   margin-right: 10px;
 }
+.border {
+  border-left: 3px solid red;
+  border-radius: 2px;
+}
