@@ -89,6 +89,7 @@ div h1 {
 div img {
   width: 150px;
   height: 150px;
+  padding-left: 20px;
 }
 .own img {
   width: 230px;
